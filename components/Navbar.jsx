@@ -26,8 +26,6 @@ const Navbar = () => (
         alt="menu icon" 
       />
     </div>
-
-
   </motion.nav>
 );
 
